@@ -57,9 +57,6 @@ IF NEW.amount > 10000 THEN
     INSERT INTO fraud_alerts ...
 END IF;
 ```
----
-📄 **[View Full Analysis Report](https://htmlpreview.github.io/?https://github.com/sanaurrehmanarain/Bank-Vault-Core-SQL/blob/main/SQL_SCENARIOS.md)**
----
 🚀 How to Run
 
 1. Create database `banking_system`.
